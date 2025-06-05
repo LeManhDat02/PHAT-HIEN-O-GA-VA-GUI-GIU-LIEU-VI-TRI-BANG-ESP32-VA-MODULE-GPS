@@ -55,7 +55,7 @@ HardwareSerial – giao tiếp UART với module SIM
 🔗 API sử dụng
 Google Apps Script Web App: nhận địa chỉ và ghi vào Google Sheets
 
-Nominatim Reverse Geocoding API: https://nominatim.openstreetmap.org/reverse
+Nominatim Reverse Geocoding API: https://nominatim.openstreetmap.org/reverse](https://docs.google.com/spreadsheets/d/1Vj_uw7KNYede43U16J0vGWRzVEUiuX83wzpcY7gh6f0/edit?usp=sharing)
 
 📄 Cấu trúc file chính
 main.ino: toàn bộ mã điều khiển ESP32
